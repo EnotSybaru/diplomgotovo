@@ -1,0 +1,2 @@
+# diplomgotovo
+gotovo
